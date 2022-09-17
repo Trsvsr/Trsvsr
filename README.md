@@ -4,7 +4,7 @@
 - I'm a third-year computer science student at Wichita State. 
 - I like programming, being most proficient at iOS and macOS platform development using Objective-C.
   - I also often program in C++, Python (with the Django framework), and Java.
-  - I do have some experience with SQL database management.
+  - I also have a little bit of experience with SQL database management.
   
 
 <b>Some notable projects I've been involved with:</b>
