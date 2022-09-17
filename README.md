@@ -12,10 +12,12 @@
 - <b>[iDeviceReRestore](https://downgrade.party)</b>: a tool (based on [libimobiledevice's idevicerestore](https://github.com/libimobiledevice/idevicerestore)) that exploits a flaw in iOS 9.x iBoot on 32-bit iOS devices that allows going from any iOS version to iOS 9.x provided that the proper tickets have been saved beforehand.
 - <b>[CoolBooter](https://coolbooter.com)</b>: a dual-booting tool for 32-bit (and soon 64-bit) iOS devices by utilizing winocm's ios-kexec-utils.
 
-<b>What else is on here?</b>
+<b>What do I have on here?</b>
 
-- Most of the repositories I have on here consist of old Theos projects from when I fiddled with jailbroken iOS development. They're only here for archival purposes and any updates should not be expected for any of these repositories.
-- Eventually I'll upload some more personal projects, but I want to make their code less ugly first.
+- Most of the repositories I have on here consist of old Theos projects from when I fiddled with jailbroken iOS development.
+  - GitHub should have the language for those respositories listed as Logos.
+  - They're only here for archival purposes and any updates should not be expected for any of those repositories.
+- Pretty much anything else is a personal project that may or may not serve some use outside of my own workflow.
 
 I think that's about it for now, thanks for reading!
 
