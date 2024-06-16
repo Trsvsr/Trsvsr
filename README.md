@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Trevor! 👋</h1>
 <b>Who am I?</b>
 
-- I'm a fourth-year computer science student at Wichita State. 
+- I have a bachelor's degree in computer science from Wichita State. 
 - I like programming, being most proficient at iOS and macOS platform development using Objective-C.
-  - I also have experience with C(++) and Python (notably the Django framework).
-  - I also have a little bit of experience with C#, Java, and PHP.
+  - I also have experience with C(++), C#, and Python (notably the Django framework) and web-based languages such as HTML, CSS, and JavaScript.
+
   
 
 <b>Some notable projects I've been involved with:</b>
